@@ -1,0 +1,23 @@
+{
+  "name": "animalguardians",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsh10082002/Animal-Guardians"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Harsh10082002/Animal-Guardians",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
+    "express": "^4.19.1",
+    "https": "^1.0.0",
+    "mysql2": "^3.9.2"
+  }
+}
